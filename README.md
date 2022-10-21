@@ -1,4 +1,4 @@
-#Descriptive Analysis of 911 Calls
+# DataAnalysis_Covid_19
 Performed descriptive analysis on <a href="https://www.kaggle.com/datasets/mchirico/montcoalert">kaggle/911calls</a> dataset using python to analyse reasons, time stamps and geographical data of 911 calls.
 
 <img alt='Sort by reasons' src='https://drive.google.com/uc?export=view&id=1IyLgojLPpONP79OyZ9sUSyw1QGQMCHtp' style='border: none' />
